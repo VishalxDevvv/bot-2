@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "KarmaBlocks.aternos.me", 
+    "ip": "SparkVerse.aternos.me", 
     "port": 12559,   
     "version": "1.12.1"   
   },
