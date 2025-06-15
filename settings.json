@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "Bot2", 
+    "username": "LOL", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "SparkVerse.aternos.me", 
-    "port": 12559,   
+    "ip": "PaglonKiDuniyaS1.aternos.me", 
+    "port": 60971,   
     "version": "1.12.1"   
   },
   
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "TMKOC",
-        "YAMETE KUDASAI!",
-        "TakaTak ka bhai kitkat hai aur Kakakai ka bhai tatakai hai -_-!"
+        "I'm fool",
+        "I am fool!",
+        "am foll"
       ]
     },
 
