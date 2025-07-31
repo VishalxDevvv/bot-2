@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "Vishal"
+      "password": ""
     },
 
     "anti-afk": {
