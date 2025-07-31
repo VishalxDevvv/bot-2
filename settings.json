@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "LOL", 
-    "password": "",
+    "password": "Vishal",
     "type": "mojang"
   },
 
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": ""
+      "password": "Vishal"
     },
 
     "anti-afk": {
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm fool",
-        "I am fool!",
-        "am foll"
+        "Heal me!",
+        "!",
+        "Ocean"
       ]
     },
 
