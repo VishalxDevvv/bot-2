@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "SparkVerse", 
+    "username": "ShinchanKaSlave", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "SparkVerse.aternos.me", 
-    "port": 12559,   
+    "ip": "MewChan.aternos.me", 
+    "port": 61051,   
     "version": "1.12.1"   
   },
   
